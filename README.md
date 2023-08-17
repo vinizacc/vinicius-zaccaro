@@ -16,11 +16,13 @@ Olá! Beleza? Meu nome é Vinícius e sou um desenvolvedor autodidata. Em 2023 e
   
 <h3 style="none">Conexão</h3>
 <a href="vinizacc@gmail.com">
+    vinizacc@gmail.com
 </a>&nbsp
 <a href="https://www.linkedin.com/in/vinicius-zaccaro/">
-
+linkedin
 </a>&nbsp
 <a href="https://www.instagram.com/vinizacc/">
+    instagram
 </a>
 
 
